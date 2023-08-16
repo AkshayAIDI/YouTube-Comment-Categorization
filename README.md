@@ -1,6 +1,4 @@
-### INTRODUCTION:
-*********************************************************************************************************************
-#### The goal of this research is to create a reliable and accurate system for classifying YouTube video comments. This technology will automatically group user comments into many categories in order to give video producers, viewers, and moderators useful information. By arranging and comprehending the thoughts, intentions, and different types of interactions stated in the comments section, the main objective is to improve the user experience.
+## The goal of this research is to create a reliable and accurate system for classifying YouTube video comments. This technology will automatically group user comments into many categories in order to give video producers, viewers, and moderators useful information. By arranging and comprehending the thoughts, intentions, and different types of interactions stated in the comments section, the main objective is to improve the user experience.
 
 *********************************************************************************************************************
 ### PROBLEM STATEMENT :
